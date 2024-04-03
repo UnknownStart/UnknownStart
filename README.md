@@ -18,8 +18,11 @@
 </p>
 
 ---          
-          
+
+<p align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownStart&layout=compact&theme=radical)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=UnknownStart&show_icons=true&theme=radical)
+</p>
           
 
 
